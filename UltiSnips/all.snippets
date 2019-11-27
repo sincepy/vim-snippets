@@ -107,4 +107,13 @@ snippet uuid "Random UUID" w
 `!p if not snip.c: import uuid; snip.rv = uuid.uuid4()`
 endsnippet
 
+snippet cmake "template
+cmake_minimum_required(VERSION 2.8)
+project(main)
+add_definitions("-Wall")
+add_executable(main
+  main.cpp
+  mod_func2.cpp
+)
+endsnippet
 # vim:ft=snippets:

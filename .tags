@@ -1,0 +1,47 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/920e791/
+ALWAYS	pythonx/javascript_snippets.py	/^ALWAYS = 'always'$/;"	kind:v	line:7	access:public
+Contents	README.md	/^Contents$/;"	kind:s	line:11
+Future ideas and examples	README.md	/^Future ideas and examples$/;"	kind:s	line:177
+Getting help	README.md	/^Getting help$/;"	kind:s	line:108
+Historical notes	README.md	/^Historical notes$/;"	kind:s	line:183
+Installation	README.md	/^Installation$/;"	kind:s	line:82
+Language maintainers	README.md	/^Language maintainers$/;"	kind:s	line:221
+License	README.md	/^License$/;"	kind:s	line:241
+NEVER	pythonx/javascript_snippets.py	/^NEVER = 'never'$/;"	kind:v	line:8	access:public
+Related repositories	README.md	/^Related repositories$/;"	kind:s	line:163
+Snippet engines supporting vim-snippets	README.md	/^Snippet engines supporting vim-snippets$/;"	kind:s	line:17
+Things to consider when contributing	README.md	/^Things to consider when contributing$/;"	kind:s	line:113
+Vendor Snippets	README.md	/^Vendor Snippets$/;"	kind:s	line:62
+Versions / dialects / ..	README.md	/^Versions \/ dialects \/ ..$/;"	kind:c	line:190
+_parse_comments	pythonx/vimsnippets.py	/^def _parse_comments(s):$/;"	kind:f	line:24	access:protected	signature:(s)
+author	addon-info.json	/^  "author" : "community",$/;"	kind:s	line:3
+b:done_vimsnippets	plugin/vimsnippets.vim	/^let b:done_vimsnippets = 1$/;"	kind:v	line:4
+complete	pythonx/vimsnippets.py	/^def complete(tab, opts):$/;"	kind:f	line:5	access:public	signature:(tab, opts)
+dependencies	addon-info.json	/^  "dependencies" : {$/;"	kind:o	line:6
+description	addon-info.json	/^  "description" : "community driven set of snippets for snipmate"$/;"	kind:s	line:8
+foldmarker	pythonx/vimsnippets.py	/^def foldmarker():$/;"	kind:f	line:90	access:public	signature:()
+g:snips_author	plugin/vimsnippets.vim	/^    let g:snips_author = "yourname"$/;"	kind:v	line:8
+g:snips_email	plugin/vimsnippets.vim	/^    let g:snips_email = "yourname@email.com"$/;"	kind:v	line:12
+g:snips_github	plugin/vimsnippets.vim	/^    let g:snips_github = "https:\/\/github.com\/yourname"$/;"	kind:v	line:16
+get_comment_format	pythonx/vimsnippets.py	/^def get_comment_format():$/;"	kind:f	line:61	access:public	signature:()
+get_option	pythonx/javascript_snippets.py	/^def get_option(snip, option, default=None):$/;"	kind:f	line:11	access:public	signature:(snip, option, default=None)
+keyword_spacing	pythonx/javascript_snippets.py	/^def keyword_spacing(snip):$/;"	kind:f	line:39	access:public	signature:(snip)
+maintainer	addon-info.json	/^  "maintainer" : "honza @ github & others",$/;"	kind:s	line:4
+make_box	pythonx/vimsnippets.py	/^def make_box(twidth, bwidth=None):$/;"	kind:f	line:80	access:public	signature:(twidth, bwidth=None)
+name	addon-info.json	/^  "name" : "snipmate-snippets",$/;"	kind:s	line:2
+repository	addon-info.json	/^  "repository" : {"type": "git", "url": "git:\/\/github.com\/honza\/snipmate-snippets.git"},$/;"	kind:o	line:5
+s:SourcedFile	plugin/vimsnippets.vim	/^let s:SourcedFile=expand("<sfile>")$/;"	kind:v	line:44
+semi	pythonx/javascript_snippets.py	/^def semi(snip):$/;"	kind:f	line:15	access:public	signature:(snip)
+snipMate & UltiSnip Snippets	README.md	/^snipMate & UltiSnip Snippets$/;"	kind:c	line:1
+space_before_function_paren	pythonx/javascript_snippets.py	/^def space_before_function_paren(snip):$/;"	kind:f	line:27	access:public	signature:(snip)
+test_snipmate_format	tests.sh	/^function test_snipmate_format {$/;"	kind:f	line:17
+test_space_indented	tests.sh	/^function test_space_indented {$/;"	kind:f	line:5
+type	addon-info.json	/^  "repository" : {"type": "git", "url": "git:\/\/github.com\/honza\/snipmate-snippets.git"},$/;"	kind:s	line:5	object:repository
+url	addon-info.json	/^  "repository" : {"type": "git", "url": "git:\/\/github.com\/honza\/snipmate-snippets.git"},$/;"	kind:s	line:5	object:repository
+vim_snippets#Filename	autoload/vim_snippets.vim	/^fun! vim_snippets#Filename(...)$/;"	kind:f	line:9
